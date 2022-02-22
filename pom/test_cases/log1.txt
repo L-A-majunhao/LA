@@ -1,0 +1,104 @@
+2022-01-21 14:35:01,052 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="8bb157321be5e55168fda402c483c1fd")>
+2022-01-21 14:35:01,053 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="8bb157321be5e55168fda402c483c1fd")>
+2022-01-21 14:35:01,053 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="8bb157321be5e55168fda402c483c1fd")>
+2022-01-21 14:35:01,057 base_page.py open 正在打开https://192.168.15.141:50443网址
+2022-01-21 14:35:12,591 base_page.py open 正在打开https://192.168.15.141:50443/manage.html#view-system网址
+2022-01-21 14:38:06,998 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="fb096b59cef81e43675029fba8eba5e0")>
+2022-01-21 14:38:06,999 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="fb096b59cef81e43675029fba8eba5e0")>
+2022-01-21 14:38:07,000 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="fb096b59cef81e43675029fba8eba5e0")>
+2022-01-21 14:38:07,002 base_page.py open 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:38:07,187 base_page.py click 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:38:07,220 base_page.py click 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:38:17,417 base_page.py open 正在打开https://192.168.15.141:50443/manage.html#view-system网址
+2022-01-21 14:40:33,236 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="6c1dd54fd0625992dcce87f29f3e7e6b")>
+2022-01-21 14:40:33,237 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="6c1dd54fd0625992dcce87f29f3e7e6b")>
+2022-01-21 14:40:33,239 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="6c1dd54fd0625992dcce87f29f3e7e6b")>
+2022-01-21 14:40:33,242 base_page.py open 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:40:33,414 base_page.py click 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:40:33,448 base_page.py click 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:40:33,639 base_page.py input 通过('id', 'name')方式定位，输入superadmin内容
+2022-01-21 14:40:33,701 base_page.py input 通过('id', 'password')方式定位，输入Admin@123内容
+2022-01-21 14:40:33,735 base_page.py click 通过('xpath', '//*[text()="登录"]')方式定位，进行点击
+2022-01-21 14:40:43,790 base_page.py open 正在打开https://192.168.15.141:50443/manage.html#view-system网址
+2022-01-21 14:42:35,051 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="64d60d5179d147f4e66927312e0399e6")>
+2022-01-21 14:42:35,052 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="64d60d5179d147f4e66927312e0399e6")>
+2022-01-21 14:42:35,053 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="64d60d5179d147f4e66927312e0399e6")>
+2022-01-21 14:42:35,056 base_page.py open 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:42:35,212 base_page.py click 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:42:35,245 base_page.py click 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:42:35,440 base_page.py input 通过('id', 'name')方式定位，输入superadmin内容
+2022-01-21 14:42:35,504 base_page.py input 通过('id', 'password')方式定位，输入Admin@123内容
+2022-01-21 14:42:35,537 base_page.py click 通过('id', 'clickLogin')方式定位，进行点击
+2022-01-21 14:42:35,564 base_page.py wite 正在等待
+2022-01-21 14:42:38,574 base_page.py open 正在打开https://192.168.15.141:50443/manage.html#view-system网址
+2022-01-21 14:44:18,871 base_page.py __init__ INFO 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="5df3a7cf6d7f9953952dcd08d4e2eec7")>
+2022-01-21 14:44:18,872 base_page.py __init__ INFO 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="5df3a7cf6d7f9953952dcd08d4e2eec7")>
+2022-01-21 14:44:18,873 base_page.py __init__ INFO 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="5df3a7cf6d7f9953952dcd08d4e2eec7")>
+2022-01-21 14:44:18,875 base_page.py open INFO 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:44:19,054 base_page.py click INFO 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:44:19,089 base_page.py click INFO 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:44:20,010 base_page.py input INFO 通过('id', 'name')方式定位，输入superadmin内容
+2022-01-21 14:44:20,072 base_page.py input INFO 通过('id', 'password')方式定位，输入Admin@123内容
+2022-01-21 14:44:20,103 base_page.py click INFO 通过('id', 'clickLogin')方式定位，进行点击
+2022-01-21 14:44:20,127 base_page.py wite INFO 正在等待
+2022-01-21 14:44:23,138 base_page.py open INFO 正在打开https://192.168.15.141:50443/manage.html#view-system网址
+2022-01-21 14:45:49,368 base_page.py __init__ INFO 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="7bcf7ba63abbb47fc84bd0b94833f597")>
+2022-01-21 14:45:49,369 base_page.py __init__ INFO 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="7bcf7ba63abbb47fc84bd0b94833f597")>
+2022-01-21 14:45:49,371 base_page.py __init__ INFO 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="7bcf7ba63abbb47fc84bd0b94833f597")>
+2022-01-21 14:45:49,374 base_page.py open INFO 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:45:49,529 base_page.py click INFO 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:45:49,563 base_page.py click INFO 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:45:50,008 base_page.py input INFO 通过('id', 'name')方式定位，输入superadmin内容
+2022-01-21 14:45:50,064 base_page.py input INFO 通过('id', 'password')方式定位，输入Admin@123内容
+2022-01-21 14:45:50,096 base_page.py click INFO 通过('id', 'clickLogin')方式定位，进行点击
+2022-01-21 14:45:50,123 base_page.py wite INFO 正在等待
+2022-01-21 14:45:53,128 base_page.py open INFO 正在打开https://192.168.15.131:50443/manage.html#view-system网址
+2022-01-21 14:45:53,215 base_page.py input INFO 通过('id', 'ip-inputEl')方式定位，输入192.168.15.141内容
+2022-01-21 14:45:53,283 base_page.py input INFO 通过('id', 'mask-inputEl')方式定位，输入24内容
+2022-01-21 14:45:53,346 base_page.py input INFO 通过('id', 'gateway-inputEl')方式定位，输入192.168.15.protocol analysis内容
+2022-01-21 14:45:53,398 base_page.py click INFO 通过('id', 'button-1065-btnInnerEl')方式定位，进行点击
+2022-01-21 14:52:57,599 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="67e09503027e260baa1a5c8a60d30d7d")>
+2022-01-21 14:52:57,600 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="67e09503027e260baa1a5c8a60d30d7d")>
+2022-01-21 14:52:57,601 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="67e09503027e260baa1a5c8a60d30d7d")>
+2022-01-21 14:52:57,603 base_page.py open 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:52:57,802 base_page.py click 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:52:57,837 base_page.py click 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:52:58,020 base_page.py input 通过('id', 'name')方式定位，输入superadmin内容
+2022-01-21 14:52:58,082 base_page.py input 通过('id', 'password')方式定位，输入Admin@123内容
+2022-01-21 14:52:58,115 base_page.py click 通过('id', 'clickLogin')方式定位，进行点击
+2022-01-21 14:52:58,141 base_page.py wite 正在等待
+2022-01-21 14:53:01,155 base_page.py open 正在打开https://192.168.15.131:50443/manage.html#view-system网址
+2022-01-21 14:53:01,258 base_page.py input 通过('id', 'ip-inputEl')方式定位，输入192.168.15.141内容
+2022-01-21 14:53:01,330 base_page.py input 通过('id', 'mask-inputEl')方式定位，输入24内容
+2022-01-21 14:53:01,397 base_page.py input 通过('id', 'gateway-inputEl')方式定位，输入192.168.15.protocol analysis内容
+2022-01-21 14:53:01,454 base_page.py click 通过('id', 'button-1065-btnInnerEl')方式定位，进行点击
+2022-01-21 14:54:02,760 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="115bdfdb69d05606f8a256afe84f9745")>
+2022-01-21 14:54:02,761 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="115bdfdb69d05606f8a256afe84f9745")>
+2022-01-21 14:54:02,762 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="115bdfdb69d05606f8a256afe84f9745")>
+2022-01-21 14:54:02,766 base_page.py open 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:54:02,939 base_page.py click 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:54:02,975 base_page.py click 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:54:03,184 base_page.py input 通过('id', 'name')方式定位，输入superadmin内容
+2022-01-21 14:54:03,246 base_page.py input 通过('id', 'password')方式定位，输入Admin@123内容
+2022-01-21 14:54:03,278 base_page.py click 通过('id', 'clickLogin')方式定位，进行点击
+2022-01-21 14:54:03,305 base_page.py wite 正在等待
+2022-01-21 14:54:06,306 base_page.py open 正在打开https://192.168.15.131:50443/manage.html#view-system网址
+2022-01-21 14:54:06,392 base_page.py input 通过('id', 'ip-inputEl')方式定位，输入192.168.15.131内容
+2022-01-21 14:54:06,464 base_page.py input 通过('id', 'mask-inputEl')方式定位，输入24内容
+2022-01-21 14:54:06,527 base_page.py input 通过('id', 'gateway-inputEl')方式定位，输入192.168.15.131内容
+2022-01-21 14:54:06,572 base_page.py click 通过('id', 'button-1065-btnInnerEl')方式定位，进行点击
+2022-01-21 14:54:24,144 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="279680c0f02ce92c9b75160156ee39fa")>
+2022-01-21 14:54:24,144 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="279680c0f02ce92c9b75160156ee39fa")>
+2022-01-21 14:54:24,145 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="279680c0f02ce92c9b75160156ee39fa")>
+2022-01-21 14:54:24,147 base_page.py open 正在打开https://192.168.15.131:50443网址
+2022-01-21 14:54:24,303 base_page.py click 通过('id', 'details-button')方式定位，进行点击
+2022-01-21 14:54:24,339 base_page.py click 通过('id', 'proceed-link')方式定位，进行点击
+2022-01-21 14:54:24,517 base_page.py input 通过('id', 'name')方式定位，输入superadmin内容
+2022-01-21 14:54:24,577 base_page.py input 通过('id', 'password')方式定位，输入Admin@123内容
+2022-01-21 14:54:24,611 base_page.py click 通过('id', 'clickLogin')方式定位，进行点击
+2022-01-21 14:54:24,638 base_page.py wite 正在等待
+2022-01-21 14:54:27,639 base_page.py open 正在打开https://192.168.15.131:50443/manage.html#view-system网址
+2022-01-21 14:54:27,727 base_page.py input 通过('id', 'ip-inputEl')方式定位，输入192.168.15.131内容
+2022-01-21 14:54:27,797 base_page.py input 通过('id', 'mask-inputEl')方式定位，输入24内容
+2022-01-21 14:54:27,858 base_page.py input 通过('id', 'gateway-inputEl')方式定位，输入192.168.15.131内容
+2022-01-21 14:54:27,898 base_page.py click 通过('id', 'button-1065-btnInnerEl')方式定位，进行点击
