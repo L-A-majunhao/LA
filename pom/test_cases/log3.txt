@@ -883,3 +883,41 @@
 2022-02-08 17:20:52,391 base_page.py wite 正在等待
 2022-02-08 17:20:55,400 base_page.py open 正在打开https://192.168.15.221:50443/manage.html#view-safe-rule网址
 2022-02-08 17:20:55,495 base_page.py click 通过('id', 'button-1142-btnInnerEl')定位，进行点击
+2022-02-22 16:13:30,441 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="0ec8c5ecc2f3379cc5a08342a17d429b")>
+2022-02-22 16:13:30,448 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="0ec8c5ecc2f3379cc5a08342a17d429b")>
+2022-02-22 16:13:30,450 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="0ec8c5ecc2f3379cc5a08342a17d429b")>
+2022-02-22 16:13:30,450 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="0ec8c5ecc2f3379cc5a08342a17d429b")>
+2022-02-22 16:13:30,453 base_page.py open 正在打开https://192.168.15.221:50443网址
+2022-02-22 16:13:37,137 base_page.py open 正在打开https://192.168.15.221:50443/manage.html#view-system网址
+2022-02-22 16:20:35,321 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="668ae0817124556a90d9afebf86a2acf")>
+2022-02-22 16:20:35,322 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="668ae0817124556a90d9afebf86a2acf")>
+2022-02-22 16:20:35,323 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="668ae0817124556a90d9afebf86a2acf")>
+2022-02-22 16:20:35,323 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="668ae0817124556a90d9afebf86a2acf")>
+2022-02-22 16:20:35,326 base_page.py open 正在打开https://192.168.15.130:50443网址
+2022-02-22 16:20:35,513 base_page.py click 通过('id', 'details-button')定位，进行点击
+2022-02-22 16:20:35,573 base_page.py click 通过('id', 'proceed-link')定位，进行点击
+2022-02-22 16:20:35,991 base_page.py input 通过('id', 'input-uname')定位，输入superadmin内容
+2022-02-22 16:20:36,069 base_page.py input 通过('id', 'input-upwd')定位，输入Admin@123内容
+2022-02-22 16:20:36,106 base_page.py click 通过('xpath', '//*[text()="登录"]')定位，进行点击
+2022-02-22 16:20:36,134 base_page.py wite 正在等待
+2022-02-22 16:20:39,148 base_page.py open 正在打开https://192.168.15.130:50443/manage.html#view-system网址
+2022-02-22 16:20:39,229 base_page.py input 通过('id', 'ip-inputEl')定位，输入192.168.15.221内容
+2022-02-22 16:20:39,303 base_page.py input 通过('id', 'mask-inputEl')定位，输入24内容
+2022-02-22 16:20:39,363 base_page.py input 通过('id', 'gateway-inputEl')定位，输入192.168.15.221内容
+2022-02-22 16:20:39,403 base_page.py click 通过('id', 'button-1068-btnInnerEl')定位，进行点击
+2022-02-22 16:26:42,169 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="d6597163478f69be9f59a3a86949f950")>
+2022-02-22 16:26:42,170 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="d6597163478f69be9f59a3a86949f950")>
+2022-02-22 16:26:42,171 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="d6597163478f69be9f59a3a86949f950")>
+2022-02-22 16:26:42,172 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="d6597163478f69be9f59a3a86949f950")>
+2022-02-22 16:26:42,174 base_page.py open 正在打开https://192.168.15.130:50443网址
+2022-02-22 16:26:42,349 base_page.py click 通过('id', 'details-button')定位，进行点击
+2022-02-22 16:26:42,385 base_page.py click 通过('id', 'proceed-link')定位，进行点击
+2022-02-22 16:26:42,854 base_page.py input 通过('id', 'input-uname')定位，输入superadmin内容
+2022-02-22 16:26:42,942 base_page.py input 通过('id', 'input-upwd')定位，输入Admin@123内容
+2022-02-22 16:26:42,976 base_page.py click 通过('xpath', '//*[text()="登录"]')定位，进行点击
+2022-02-22 16:26:43,006 base_page.py wite 正在等待
+2022-02-22 16:26:46,019 base_page.py open 正在打开https://192.168.15.130:50443/manage.html#view-system网址
+2022-02-22 16:26:46,105 base_page.py input 通过('id', 'ip-inputEl')定位，输入192.168.15.130内容
+2022-02-22 16:26:46,176 base_page.py input 通过('id', 'mask-inputEl')定位，输入24内容
+2022-02-22 16:26:46,238 base_page.py input 通过('id', 'gateway-inputEl')定位，输入192.168.15.130内容
+2022-02-22 16:26:46,280 base_page.py click 通过('id', '//*[text()="保存"]')定位，进行点击

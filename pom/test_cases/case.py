@@ -34,9 +34,9 @@ class TestDemo01(unittest.TestCase):
     def test_01_login(self, user, pwd,):
         self.lp.longin(user, pwd)
 
-    # @file_data('../data/index.yaml')
-    # def test_02_rule(self,qw,qw2,qw3,qw4,qw5):
-    #     self.ip.system(qw,qw2,qw3,qw4,qw5)
+    @file_data('../data/index.yaml')
+    def test_02_rule(self,qw,qw2,qw3,qw4,qw5):
+        self.ip.system(qw,qw2,qw3,qw4,qw5)
 
     # @data(['192.168.15.67','514'])
     # @unpack
@@ -53,12 +53,12 @@ class TestDemo01(unittest.TestCase):
     # def test_06_system(self, user, ID, listener_port,http,ip):
     #     self.jt.system(user, ID, listener_port,http,ip)
 
-    @data(['安全通道名称','slot0-1'])
-    @unpack
-
-    # @file_data("../data/safe.yaml")
-    def test_08_safety(self,designation,network):
-        self.sf.safety(designation,network)
+    # @data(['安全通道名称','slot0-1'])
+    # @unpack
+    #
+    # # @file_data("../data/safe.yaml")
+    # def test_08_safety(self,designation,network):
+    #     self.sf.safety(designation,network)
 
 if __name__ == '__main__':
     unittest.main()

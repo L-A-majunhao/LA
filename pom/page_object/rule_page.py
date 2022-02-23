@@ -8,8 +8,8 @@ from time import sleep
 # 常规页面
 class RulePage(BasePage):
     # 常规URL
-    url='https://192.168.15.221:50443/manage.html#view-system'
-    url2='https://192.168.15.221:50443/manage.html#view-snmp'
+    url='https://192.168.15.130:50443/manage.html#view-system'
+    url2='https://192.168.15.130:50443/manage.html#view-snmp'
     # IP地址
     input_ip=('id', 'ip-inputEl')
     # 掩码
@@ -17,13 +17,13 @@ class RulePage(BasePage):
     # 默认网关
     swg=('id', 'gateway-inputEl')
     # 保存
-    save=('id', 'button-1068-btnInnerEl')
+    save=('id', '//*[text()="保存"]')
     # dns1
     dns1=('id', 'textfield-1071-inputEl')
     # dns2
     dns2=('id', 'textfield-1072-inputEl')
     # dns保存
-    save2=('id', 'button-1074-btnInnerEl')
+    save2=('id', 'button-1081-btnInnerEl')
 
 
     qd=('id','button-1005-btnInnerEl')
