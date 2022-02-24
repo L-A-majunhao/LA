@@ -1,0 +1,8 @@
+2022-02-23 10:07:58,582 base_page.py __init__ 初始化浏览器<selenium.webdriver.chrome.webdriver.WebDriver (session="776598dc7fe5030e03189b752fc8edc2")>
+2022-02-23 10:07:58,583 base_page.py open 正在打开https://192.168.15.130:50443网址
+2022-02-23 10:07:58,759 base_page.py click 通过('id', 'details-button')定位，进行点击
+2022-02-23 10:07:58,794 base_page.py click 通过('id', 'proceed-link')定位，进行点击
+2022-02-23 10:07:59,113 base_page.py input 通过('id', 'input-uname')定位，输入sysadmin内容
+2022-02-23 10:07:59,180 base_page.py input 通过('id', 'input-upwd')定位，输入Admin@123内容
+2022-02-23 10:07:59,214 base_page.py click 通过('xpath', '//*[text()="登录"]')定位，进行点击
+2022-02-23 10:07:59,242 base_page.py wite 正在等待
